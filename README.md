@@ -21,6 +21,11 @@
 2. Navega a **Settings** → **Secrets and variables** → **Actions**
 3. Agrega los siguientes secrets:
 
+```
+DOCKERHUB_USERNAME: tu_usuario_dockerhub
+DOCKERHUB_TOKEN: tu_token_dockerhub
+```
+
 <img width="886" height="222" alt="image" src="https://github.com/user-attachments/assets/0bf3f08b-373f-483d-b320-48d38f664e1f" />
 
 

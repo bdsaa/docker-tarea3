@@ -122,7 +122,7 @@ Las imágenes construidas se subirán automáticamente a Docker Hub con el tag:
 bdsaa/scout
 ```
 <img width="1847" height="545" alt="image" src="https://github.com/user-attachments/assets/798e92b9-6299-451c-b94d-1b48c04aeb89" />
-<img width="886" height="704" alt="image" src="https://github.com/user-attachments/assets/cc28edd2-1c98-45ec-b8ae-0ae50e75837d" />
+<img width="895" height="571" alt="image" src="https://github.com/user-attachments/assets/97aedcb5-636a-4a10-b214-414e6005cea8" />
 
 
 

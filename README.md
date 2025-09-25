@@ -11,7 +11,8 @@
 - Repositorio en GitHub
 - Aplicación FastAPI con Dockerfile configurado
 - Imagenes de FastAPI
-  <img width="886" height="370" alt="image" src="https://github.com/user-attachments/assets/9590f131-c54d-46c4-a83c-dcb9a99903aa" />
+  <img width="937" height="477" alt="image" src="https://github.com/user-attachments/assets/0ca0a96e-4733-4fb7-8adb-ba0ef4028d11" />
+
 
 ## ⚙️ Configuración
 
